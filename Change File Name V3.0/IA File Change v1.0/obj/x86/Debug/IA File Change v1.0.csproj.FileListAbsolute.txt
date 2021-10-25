@@ -1,0 +1,30 @@
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\bin\Debug\IA File Change v1.0.exe
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\bin\Debug\IA File Change v1.0.pdb
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA_File_Change_v1._0.Form1.resources
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA_File_Change_v1._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.exe
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.pdb
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\bin\Debug\IAFrameWork.dll
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\bin\Debug\IAFrameWork.pdb
+C:\Users\mrt_b\Desktop\İlhan Sarı\IA File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\bin\Debug\IA File Change v1.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\bin\Debug\IA File Change v1.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\bin\Debug\IAFrameWork.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA_File_Change_v1._0.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA_File_Change_v1._0.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\27 File Change v1.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.csproj.GenerateResource.Cache
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\bin\Debug\IA File Change v1.0.exe
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\bin\Debug\IA File Change v1.0.pdb
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\bin\Debug\IAFrameWork.pdb
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.csprojAssemblyReference.cache
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\obj\x86\Debug\IA_File_Change_v1._0.Form1.resources
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\obj\x86\Debug\IA_File_Change_v1._0.Properties.Resources.resources
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.csproj.GenerateResource.cache
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.csproj.CoreCompileInputs.cache
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.csproj.CopyComplete
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.exe
+G:\OneDrive\02 Brainy Tech\04 Departments\01 IT Department\05 Project Ideas\Change File Name Project\G 4 - Change File Name V3.0\IA File Change v1.0\obj\x86\Debug\IA File Change v1.0.pdb

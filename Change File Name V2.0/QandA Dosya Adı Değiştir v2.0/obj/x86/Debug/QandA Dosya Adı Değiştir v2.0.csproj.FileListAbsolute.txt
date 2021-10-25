@@ -1,0 +1,23 @@
+C:\Users\mrt_b\Desktop\QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\bin\Debug\QandA Dosya Adı Değiştir v2.0.exe
+C:\Users\mrt_b\Desktop\QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\bin\Debug\QandA Dosya Adı Değiştir v2.0.pdb
+C:\Users\mrt_b\Desktop\QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA_Dosya_Adı_Değiştir_v2._0.Form1.resources
+C:\Users\mrt_b\Desktop\QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA_Dosya_Adı_Değiştir_v2._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.exe
+C:\Users\mrt_b\Desktop\QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\4 QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\4 QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\4 QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\bin\Debug\QandA Dosya Adı Değiştir v2.0.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\4 QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\bin\Debug\QandA Dosya Adı Değiştir v2.0.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\4 QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA_Dosya_Adı_Değiştir_v2._0.Form1.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\4 QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA_Dosya_Adı_Değiştir_v2._0.Properties.Resources.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\4 QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.csproj.GenerateResource.Cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\3 Setup\4 QandA Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\09 Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\09 Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\09 Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\bin\Debug\QandA Dosya Adı Değiştir v2.0.exe
+E:\03 - Yazılım\05 - Büyük Projeler\09 Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\bin\Debug\QandA Dosya Adı Değiştir v2.0.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\09 Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\09 Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA_Dosya_Adı_Değiştir_v2._0.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\09 Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA_Dosya_Adı_Değiştir_v2._0.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\09 Dosya Adı Değiştir v2.0\QandA Dosya Adı Değiştir v2.0\obj\x86\Debug\QandA Dosya Adı Değiştir v2.0.csproj.GenerateResource.Cache
